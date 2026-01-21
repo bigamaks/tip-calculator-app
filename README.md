@@ -26,7 +26,7 @@ A simple and intuitive **React Tip Calculator** that helps users calculate the t
 
 ## 🚀 Live Demo
 
-*Add link here if deployed (e.g. Vercel / Netlify)*
+https://tip-calculator-app-blue-alpha.vercel.app/
 
 ---
 
